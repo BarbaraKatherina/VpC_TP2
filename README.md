@@ -7,7 +7,7 @@ Este proyecto contiene un conjunto de notebooks de Google Colab que demuestran d
 
 ## Contenido
 
-- `TP1.ipynb`: 
+- `TP2_Con_Correccion.ipynb`: 
 Implementar la función
 create_gauss_filter (h, w, k_size , para crear filtros gaussianos para
 filtrado espectral. Debe retornar un filtro gaussiano de tamaño HxW en dominio espacial y su transformada
